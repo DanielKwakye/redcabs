@@ -1,0 +1,16 @@
+{
+  "welcome": "Welcome to Redcabs",
+  "right_app_for_you": "The right App for anyone who wants to become an independent driver for platforms such as Amigoo, Uber, and Bolt",
+  "have_account_q": "Do you have an account?",
+  "yes_i_do": "Yes I do",
+  "no_i_dont": "No I don't",
+  "login": "Login",
+  "signup": "Sign up",
+  "already_have_account_q": "Already have an account?",
+  "dont_have_account_q": "Don't have an account?",
+  "you_been_away_too_long": "You've been away too long...",
+  "updatePassword": "Update password",
+  "update": "Update",
+  "profile": "Profile",
+  "submit": "Submit"
+}

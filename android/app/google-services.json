@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "114266712759",
+    "firebase_url": "https://redcabs-326d4-default-rtdb.firebaseio.com",
+    "project_id": "redcabs-326d4",
+    "storage_bucket": "redcabs-326d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114266712759:android:d9a6f5278809548c97bb32",
+        "android_client_info": {
+          "package_name": "com.redcab.redcabspartners"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114266712759-oqtk8sao9o7libq4eckqn6it5bn3lkar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZa_t8NcfTVtXVwFwiGxGJWgTY44X5lVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114266712759-oqtk8sao9o7libq4eckqn6it5bn3lkar.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "114266712759-lqonigctnjh0scshk5ifpn2e3lc3aovl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.redcab.redcabspartners"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114266712759:android:8dff82600a5cfe6497bb32",
+        "android_client_info": {
+          "package_name": "com.redcabs.com.redcabs_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114266712759-oqtk8sao9o7libq4eckqn6it5bn3lkar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZa_t8NcfTVtXVwFwiGxGJWgTY44X5lVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114266712759-oqtk8sao9o7libq4eckqn6it5bn3lkar.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "114266712759-lqonigctnjh0scshk5ifpn2e3lc3aovl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.redcab.redcabspartners"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
